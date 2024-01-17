@@ -12,7 +12,7 @@ Dieses Programm berechnet anhand von Schraubeneigenschaften, wie Abmaße und Mat
 
 ## Installation
 
-Um die App zu installieren, lade die Datei [`schraubentoolInstaller.exe`](https://objects.githubusercontent.com/github-production-release-asset-2e65be/744030336/82491901-1467-4c23-b5dd-b70ef718c83a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240117T095303Z&X-Amz-Expires=300&X-Amz-Signature=4d25bc323f337f639255907e1463613ea121b1a4d16a3dfa7b899da9104fea63&X-Amz-SignedHeaders=host&actor_id=98911509&key_id=0&repo_id=744030336&response-content-disposition=attachment%3B%20filename%3DschraubentoolInstaller.exe&response-content-type=application%2Foctet-stream) herunter und führe sie aus. Folge dann den Anweisungen im Installationsmenü.
+Um die App zu installieren, lade die Datei [`schraubentoolInstaller.exe`](schraubentoolInstaller.exe) herunter und führe sie aus. Folge dann den Anweisungen im Installationsmenü.
 
 ## Anwendung
 
