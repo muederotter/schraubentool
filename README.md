@@ -28,7 +28,7 @@ Falls du wissen möchtest, wie die Werte berechnet werden, lies bitte das [Wiki]
 
 ## Troubleshooting
 
-Ich habe zwei Errorlämpchen eingebaut. Wenn das linke lämpchen leuchtet, dann liegt das meistens daran, dass der Ordner `C:\temp` nicht existiert. Hier wird nämlich die  In diesem fall erstelle den Ordner bitte manuell, dann sollte alles funktionieren.
+Ich habe zwei Errorlämpchen eingebaut. Wenn das linke lämpchen leuchtet, dann liegt das meistens daran, dass der Ordner `C:\temp` nicht existiert. Hier wird nämlich die temporäre Textdatei mit dem LaTeX code gespeichert. In diesem fall erstelle den Ordner bitte manuell, dann sollte alles funktionieren.
 
 Wenn du sonstige Probleme mit der App hast oder Fehler entdeckst, dann erstelle bitte ein [Issue](https://github.com/muederotter/schraubentool/issues).
 
